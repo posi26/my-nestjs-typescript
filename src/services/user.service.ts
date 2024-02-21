@@ -1,4 +1,3 @@
-// src/services/user.service.ts
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { User } from '../models/user.model';
 
